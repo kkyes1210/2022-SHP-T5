@@ -75,10 +75,10 @@ function Detail() {
         {/* <TypeIframe url="https://v.daum.net/v/20221105202512181"/> */}
       </RightIframe>
       <LeftIframe>
-        {/* <TypeIframe url="https://v.daum.net/v/20221105203122210"/> */}
+        <TypeIframe url="https://v.daum.net/v/20221105203122210"/>
       </LeftIframe>
       <RightIframe>
-        {/* <TypeIframe url="https://v.daum.net/v/20221105202512181"/> */}
+        <TypeIframe url="https://v.daum.net/v/20221105202512181"/>
       </RightIframe>
       <LeftIframe>
         {/* <TypeIframe url="https://v.daum.net/v/20221105203122210"/> */}
