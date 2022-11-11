@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/2022-SHP-T5/static/css/main.43b2d362.css",
+    "main.js": "/2022-SHP-T5/static/js/main.f29b6d8d.js",
+    "index.html": "/2022-SHP-T5/index.html",
+    "main.f29b6d8d.js.map": "/2022-SHP-T5/static/js/main.f29b6d8d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.43b2d362.css",
+    "static/js/main.f29b6d8d.js"
+  ]
+}
